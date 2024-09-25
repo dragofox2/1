@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<?xml version="1.0" encoding="UTF-8"?
 <yml_catalog date="2024-09-24 17:00">
 <shop>
 <name>ТЦ МДРЕГИОН</name>
 <company>ТЦ МДРЕГИОН</company>
 <url>https://mdregion.center</url>
-<platform>1C-Bitrix</platform>
 <currencies>
 <currency id="RUB" rate="1" />
 </currencies>
@@ -14,11 +13,6 @@
 <category id="321" parentId="311">Производители</category>
 <category id="322" parentId="321">Minelab</category>
 </categories>
-<shipment-options>
-
-<option days='14' order-before='16'/>
-
-</shipment-options>
 <offers>
 <offer id="3820-0003" available="true">
 <url>https://mdregion.center/catalog/pribornyy-poisk/metalloiskateli/proizvoditeli/minelab/metallodetektor-minelab-vanquish-540.html</url>
