@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-09-24 17:00">
+<shop>
+<name>ТЦ МДРЕГИОН</name>
+<company>ТЦ МДРЕГИОН</company>
+<url>https://mdregion.center</url>
+<platform>1C-Bitrix</platform>
+<currencies>
+<currency id="RUB" rate="1" />
+</currencies>
+<categories>
+<category id="310">Поисковая техника</category>
+<category id="311" parentId="310">Металлоискатели</category>
+<category id="321" parentId="311">Производители</category>
+<category id="322" parentId="321">Minelab</category>
+</categories>
+<shipment-options>
+
+<option days='14' order-before='16'/>
+
+</shipment-options>
+<offers>
+<offer id="3820-0003" available="true">
+<url>https://mdregion.center/catalog/pribornyy-poisk/metalloiskateli/proizvoditeli/minelab/metallodetektor-minelab-vanquish-540.html</url>
+<price>42255</price>
+<currencyId>RUB</currencyId>
+<categoryId>322</categoryId>
+<picture>https://mdregion.center/upload/iblock/74a/1as4p96tq93ln3f4rum3w3y5e47cdu72/metallodetektor-minelab-vanquish-540.jpg</picture>
+<outlets>
+<outlet id="17" instock="17"/>
+</outlets>
+<vendor>MINELAB</vendor>
+<vendorCode>3820-0003</vendorCode>
+<name>Металлодетектор Minelab VANQUISH 540</name>
+<description>Металлодетектор Minelab VANQUISH 540</description>
+</offer>
+<offer id="3820-0001" available="true">
+<url>https://mdregion.center/catalog/pribornyy-poisk/metalloiskateli/proizvoditeli/minelab/metallodetektor-minelab-vanquish-340.html</url>
+<price>25925</price>
+<currencyId>RUB</currencyId>
+<categoryId>322</categoryId>
+<picture>https://mdregion.center/upload/iblock/64a/r5mu2qa6d1fz07jerimw26mb6ozc4tnw/metallodetektor-minelab-vanquish-340.jpg</picture>
+<outlets>
+<outlet id="17" instock="16"/>
+</outlets>
+<vendor>MINELAB</vendor>
+<vendorCode>3820-0001</vendorCode>
+<name>Металлодетектор Minelab VANQUISH 340</name>
+<description>Металлодетектор Minelab VANQUISH 340</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
